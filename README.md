@@ -1,4 +1,4 @@
-RetailInventory
+BOOTSTRAP TEMPLATE
 ===============
 
-A basic retail inventory system
+A simple bootstrap template
